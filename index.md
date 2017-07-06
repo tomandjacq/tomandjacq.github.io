@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+title: Welcome to a place to keep all of our photos from traveling and life in general.
 
 You can use the [editor on GitHub](https://github.com/tomandjacq/tomandjacq.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
